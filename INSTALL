@@ -1,0 +1,14 @@
+Building GEMCO
+
+See doc/readme-qt.rst for instructions on building GEMCO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GEMCO.
+
+See doc/build-*.txt for instructions on building gemcod,
+the intended-for-services, no-graphical-interface, reference
+implementation of GEMCO.
+
+For installing download the WinQT and Gemco.conf
+- Start Gemco-GMO-WinQT.exe
+- Go to %appdata
+- Copy the Gemco.conf file in the Gemco folder
